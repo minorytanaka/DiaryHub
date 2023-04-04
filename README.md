@@ -287,3 +287,8 @@ python manage.py runserver
 		```
 ### Технологии
 API написан на языке Python с использованием библиотеки Django REST framework. В качестве базы данных используется SQLite.
+### Информация об авторе проекта
+Автор: Александр Андреевич
+-  Email: fruzexshow@gmail.com
+-  VK: https://vk.com/shirayanagi
+- Telegram: https://t.me/shirayanagi
